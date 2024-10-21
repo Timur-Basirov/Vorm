@@ -1,0 +1,68 @@
+C:\Users\opilane\source\repos\WinForms\bin\Debug\net8.0-windows\WinForms.exe
+C:\Users\opilane\source\repos\WinForms\bin\Debug\net8.0-windows\WinForms.deps.json
+C:\Users\opilane\source\repos\WinForms\bin\Debug\net8.0-windows\WinForms.runtimeconfig.json
+C:\Users\opilane\source\repos\WinForms\bin\Debug\net8.0-windows\WinForms.dll
+C:\Users\opilane\source\repos\WinForms\bin\Debug\net8.0-windows\WinForms.pdb
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.dll
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\refint\WinForms.dll
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.pdb
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.genruntimeconfig.cache
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\ref\WinForms.dll
+C:\Users\opilane\source\repos\WinForms\obj\Debug\net8.0-windows\WinForms.StartForm.resources
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\bin\Debug\net8.0-windows\WinForms.exe
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\bin\Debug\net8.0-windows\WinForms.deps.json
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\bin\Debug\net8.0-windows\WinForms.runtimeconfig.json
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\bin\Debug\net8.0-windows\WinForms.dll
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\bin\Debug\net8.0-windows\WinForms.pdb
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfo.cs
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.sourcelink.json
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.dll
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\refint\WinForms.dll
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.pdb
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.genruntimeconfig.cache
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\ref\WinForms.dll
+C:\Users\opilane\source\repos\VladislavKudriashevTARpv23\Programeerimine II\WinForms\obj\Debug\net8.0-windows\WinForms.MainForm.resources
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\bin\Debug\net8.0-windows\WinForms.exe
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\bin\Debug\net8.0-windows\WinForms.deps.json
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\bin\Debug\net8.0-windows\WinForms.runtimeconfig.json
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\bin\Debug\net8.0-windows\WinForms.dll
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\bin\Debug\net8.0-windows\WinForms.pdb
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.MainForm.resources
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.sourcelink.json
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.dll
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\refint\WinForms.dll
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.pdb
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\WinForms.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TARpv23Tim\ts\WinForms\obj\Debug\net8.0-windows\ref\WinForms.dll
+C:\Users\opilane\source\repos\TARpv23Tim\ts\bin\Debug\net8.0-windows\WinForms.exe
+C:\Users\opilane\source\repos\TARpv23Tim\ts\bin\Debug\net8.0-windows\WinForms.deps.json
+C:\Users\opilane\source\repos\TARpv23Tim\ts\bin\Debug\net8.0-windows\WinForms.runtimeconfig.json
+C:\Users\opilane\source\repos\TARpv23Tim\ts\bin\Debug\net8.0-windows\WinForms.dll
+C:\Users\opilane\source\repos\TARpv23Tim\ts\bin\Debug\net8.0-windows\WinForms.pdb
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.MainForm.resources
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.sourcelink.json
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.dll
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\refint\WinForms.dll
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.pdb
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\ref\WinForms.dll
+C:\Users\opilane\source\repos\TARpv23Tim\ts\obj\Debug\net8.0-windows\WinForms.Form1.resources
