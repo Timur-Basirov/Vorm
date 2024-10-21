@@ -270,7 +270,7 @@ namespace WinForms
                 btnB = new Button();
                 btnB.Text = "B";
                 btnB.Location = new Point(240, 30);
-                btnB.Click += (s, args) => { MessageBox.Show("B"); };
+                btnB.Click += btn52_click;
                 this.Controls.Add(btnB);
 
                 btnC = new Button();
@@ -288,5 +288,8 @@ namespace WinForms
             Form1 form1 = new Form1();
             form1.Show();
         }
+        private void btn52_click(object sender, EventArgs e)
+        {  Form2 form2 = new Form2();
+           form2.Show();}
     } 
 }
