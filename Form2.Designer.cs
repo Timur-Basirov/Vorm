@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             timeLabel = new Label();
             label1 = new Label();
             plusLeftLabel = new Label();
@@ -51,6 +52,7 @@
             label11 = new Label();
             quotient = new NumericUpDown();
             startButton = new Button();
+            timer1 = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)sum).BeginInit();
             ((System.ComponentModel.ISupportInitialize)difference).BeginInit();
             ((System.ComponentModel.ISupportInitialize)product).BeginInit();
@@ -65,6 +67,7 @@
             timeLabel.Name = "timeLabel";
             timeLabel.Size = new Size(200, 30);
             timeLabel.TabIndex = 0;
+
             // 
             // label1
             // 
@@ -124,6 +127,7 @@
             sum.Name = "sum";
             sum.Size = new Size(120, 39);
             sum.TabIndex = 1;
+            sum.Enter += answer_Enter;
             // 
             // minusLeftLabel
             // 
@@ -172,6 +176,7 @@
             difference.Name = "difference";
             difference.Size = new Size(120, 39);
             difference.TabIndex = 2;
+            difference.Enter += answer_Enter;
             // 
             // timesLeftLabel
             // 
@@ -220,6 +225,7 @@
             product.Name = "product";
             product.Size = new Size(120, 39);
             product.TabIndex = 3;
+            product.Enter += answer_Enter;
             // 
             // dividedLeftLabel
             // 
@@ -268,6 +274,7 @@
             quotient.Name = "quotient";
             quotient.Size = new Size(120, 39);
             quotient.TabIndex = 4;
+            quotient.Enter += answer_Enter;
             // 
             // startButton
             // 
@@ -346,5 +353,6 @@
         private Label label11;
         private NumericUpDown quotient;
         private Button startButton;
+        private System.Windows.Forms.Timer timer1;
     }
 }

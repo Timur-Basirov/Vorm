@@ -15,6 +15,7 @@ namespace WinForms
         public Form2()
         {
             InitializeComponent();
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
         }
 
         // Create a Random object called randomizer 
@@ -90,6 +91,11 @@ namespace WinForms
             dividedRightLabel.Text = divisor.ToString();
             quotient.Value = 0;
 
+            // Start the timer.
+            timer1.Interval = 1000;
+            timeLeft = 30;
+            timeLabel.Text = "30 seconds";
+            timer1.Start();
         }
         private void label2_Click(object sender, EventArgs e)
         { }
@@ -112,6 +118,44 @@ namespace WinForms
                 return true;
             else
                 return false;
+        }
+
+      
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            if (CheckTheAnswer())
+            {
+                timer1.Stop();
+                MessageBox.Show("You got all the answers right!", "Congratulations!");
+                startButton.Enabled = true;
+            }
+            else if (timeLeft > 0)
+            {
+                timeLeft = timeLeft - 1;
+                timeLabel.Text = timeLeft + " seconds";
+            }
+            else
+            {
+                timer1.Stop();
+                timeLabel.Text = "Time's up!";
+                MessageBox.Show("You didn't finish in time.", "Sorry!");
+                sum.Value = addend1 + addend2;
+                difference.Value = minuend - subtrahend;
+                product.Value = multiplicand * multiplier;
+                quotient.Value = dividend / divisor;
+                startButton.Enabled = true;
+            }
+        }
+
+        private void answer_Enter(object sender, EventArgs e)
+        {
+            NumericUpDown answerBox = sender as NumericUpDown;
+
+            if (answerBox != null)  
+            {
+                int lengthOfAnswer = answerBox.Value.ToString().Length;
+                answerBox.Select(0, lengthOfAnswer);
+            }
         }
     }
 }
