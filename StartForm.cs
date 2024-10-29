@@ -276,7 +276,7 @@ namespace WinForms
                 btnC = new Button();
                 btnC.Text = "C";
                 btnC.Location = new Point(340, 30);
-                btnC.Click += (s, args) => { MessageBox.Show("C"); };
+                btnC.Click += btn533_click;
                 this.Controls.Add(btnC);
 
                 this.Refresh();  
@@ -290,6 +290,13 @@ namespace WinForms
         }
         private void btn52_click(object sender, EventArgs e)
         {  Form2 form2 = new Form2();
-           form2.Show();}
+           form2.Show();
+        }
+        
+        private void btn533_click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            form3.Show();
+        }
     } 
 }

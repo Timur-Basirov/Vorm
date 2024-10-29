@@ -12,9 +12,9 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\opilane\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\opilane\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\suzuy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\suzuy\\.nuget\\packages",
+      "D:\\Python\\componenti\\NuGetPackages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
